@@ -38,4 +38,3 @@ Based in Waipahu, Hawaiʻi 🤙
 ## 📬 Contact Me
 
 **Email:** savaiinaeasilva@gmail.com
-areTEMP
