@@ -33,7 +33,7 @@ Based in Waipahu, Hawaiʻi 🤙
 
 ## 🌐 Live Demo
 
-👉 [Insert your GitHub Pages link here once published]
+👉 
 
 ## 📬 Contact Me
 
