@@ -1,4 +1,4 @@
-#Healthcare Demo Website for Local Clinics
+# Healthcare Demo Website for Local Clinics
 
 This is a simple, professional one-page website template built for small healthcare providers, clinics, and home care services that need a digital presence but don’t yet have one.
 
